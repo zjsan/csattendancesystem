@@ -102,7 +102,7 @@ function test_input($data)
 	
 		<form action="<?php echo $_SERVER['PHP_SELF'];?>" method = "POST">	
 
-			<h3>Login</h3>
+			<h3>LOGIN</h3>
 			<input type="text" name="username" required placeholder="Enter username" class="box">
 			<input type="password" name="psword" required placeholder="Enter password" class="box">
 			<input type="submit" name="login" class="btn" value="Login">
