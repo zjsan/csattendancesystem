@@ -4,7 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<<<<<<< HEAD
     <title>LOGIN PAGE</title>
+=======
+    <title>Document</title>
+>>>>>>> 5c4956fac5e90d9173f48da0e7c19375686d66dd
 </head>
 
 <body>
